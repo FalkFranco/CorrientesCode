@@ -146,6 +146,10 @@ fieldset{
     text-align: center;
 }
 
+.curso h3{
+    color: var(--verde);
+}
+
 .icono{
     background-color: var(--amarillo);
     height: 10rem;
